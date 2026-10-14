@@ -7,7 +7,7 @@ Currently working on internal web applications at **Wellis Hungary** using PHP, 
 
 ## Featured Projects
 
-### [Appointment Platform](https://github.com/OlcsikaSZ/Appointment-platform)
+### [Appointment Platform](https://github.com/OlcsikaSZ/Appointment-platform-showcase)
 Production-ready appointment booking and administration platform for small businesses.
 
 **Tech:** Laravel · PHP · MySQL · JavaScript · Vue 3  
