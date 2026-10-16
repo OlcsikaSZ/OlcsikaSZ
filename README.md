@@ -11,7 +11,7 @@ Currently working on internal web applications at **Wellis Hungary** using PHP, 
 Production-ready appointment booking and administration platform for small businesses.
 
 **Tech:** Laravel · PHP · MySQL · JavaScript · Vue 3  
-**Live:** https://olcsikaszbusiness.hu
+**Live:** https://olcsikaszbusiness.hu/Appointment-platform
 
 ### [TechStockHU](https://github.com/OlcsikaSZ/Webtech2)
 Full-stack inventory and ordering system with authentication, role-based access control, product management, and ordering workflows.
