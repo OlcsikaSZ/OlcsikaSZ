@@ -48,7 +48,7 @@ Angular · React · Vue 3 · HTML · CSS
 MySQL · MongoDB · SQLite
 
 **Tools & Workflow**  
-Git · GitHub · VS Code · Linux/SSH · Deployment
+AI · Git · GitHub · VS Code · Linux/SSH · Deployment
 
 ## Links
 
